@@ -144,7 +144,7 @@ class ProbabilityTests(unittest.TestCase):
 
         self.assertTrue(flag1, msg='Incorrect match distribution for equal skill levels')
         self.assertTrue(flag2 and flag3, msg='Incorrect match distribution: teams with higher skill levels should have higher win probabilities')
-
+        
     #Part 2b Test͏︅͏︀͏︋͏︋͏󠄌͏󠄎͏︀͏󠄋͏︊͏󠄏
     def test_posterior(self):
         posterior = calculate_posterior(get_game_network())
