@@ -1,3 +1,7 @@
+# My Notes
+- This assignment implements BayesNets for specific problems using pgmpy - a Python package for working with Bayesian Networks and related models such as Directed Acyclic Graphs, Dynamic Bayesian Networks, and Structural Equation Models.
+- `submission.py` includes all the code including BayesNets models and Gibbs and Metropolis Hastings Sampling methods 
+
 ## CS 6601 Assignment 3: Bayes Nets
 
 In this assignment, you will work with probabilistic models known as Bayesian networks to efficiently calculate the answer to probability questions concerning discrete random variables.
